@@ -165,11 +165,10 @@ Only the progress stepper.
 
 ## Reusable techniques learned
 
-- _____
-- _____
+- The readme gave context on the existing solution and helped me identify the gaps and solutions. Being specific with the AI tool enabled it improve the fidelity of the output
 
 ## What broke (and the fix)
 
 _Where a single mega-prompt failed and chaining fixed it._
 
-_____
+I ran the prompts one after the other so nothing broke on this round.
