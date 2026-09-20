@@ -4,16 +4,16 @@
 
 ## What I showed
 
-_____
+my prototype with customer quotes, hypothesis and a kill switch to retest or pivot if the solution didnt fix the churn
 
 ## What my partner understood (in their words)
 
-_____
+They thought the hypothesis and kill switch were clear
 
 ## Where they got confused / pushed back
 
-_____
+They didn't understyand how to actually test the flows. They were just checkboxes and no actual onboarding
 
 ## What I'll change as a result
 
-_____
+I'll try to build out the flows and make some UI changes
